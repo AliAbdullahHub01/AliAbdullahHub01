@@ -24,7 +24,7 @@
 ## 🧑‍💻 About Me
 
 ```ts
-const ali: Developer = {
+const Ali: Developer = {
   name        : "Ali Abdullah",
   location    : "Lahore, Pakistan 🇵🇰",
   role        : ["Frontend Developer", "Backend Developer"],
@@ -33,7 +33,6 @@ const ali: Developer = {
   tools       : ["Node.js", "Express", "Git", "VS Code", "Postman"],
   learning    : ["React", "Docker", "GraphQL"],
   available   : true, // 🟢 Open to Work
-  contact     : "your@email.com",
 };
 ```
 
@@ -98,7 +97,7 @@ const ali: Developer = {
 
 </div>
 
-> 💡 Replace `your-repo-1` and `your-repo-2` with your actual repository names!
+> 💡 Replace `CRMS` and `your-repo-2` with your actual repository names!
 
 ---
 
@@ -118,7 +117,7 @@ const ali: Developer = {
 
 [![GitHub](https://img.shields.io/badge/GitHub-AliAbdullahHub01-a855f7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AliAbdullahHub01)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ali_Abdullah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Email](https://img.shields.io/badge/Email-your@email.com-ff4d6d?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Instagram-_kuroi_yoru_-ff4d6d?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 
 </div>
 
