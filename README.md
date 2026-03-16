@@ -88,16 +88,14 @@ const Ali: Developer = {
 
 <div align="center">
 
-<a href="https://github.com/AliAbdullahHub01/your-repo-1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AliAbdullahHub01&repo=your-repo-1&theme=tokyonight&hide_border=true&bg_color=07070f&title_color=a855f7&icon_color=ff4d6d&text_color=e2d9f3&border_radius=10" />
+<a href="https://github.com/AliAbdullahHub01/CRMS">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AliAbdullahHub01&repo=CRMS&theme=tokyonight&hide_border=true&bg_color=07070f&title_color=a855f7&icon_color=ff4d6d&text_color=e2d9f3&border_radius=10" />
 </a>
 <a href="https://github.com/AliAbdullahHub01/your-repo-2">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=AliAbdullahHub01&repo=your-repo-2&theme=tokyonight&hide_border=true&bg_color=07070f&title_color=a855f7&icon_color=ff4d6d&text_color=e2d9f3&border_radius=10" />
 </a>
 
 </div>
-
-> 💡 Replace `CRMS` and `your-repo-2` with your actual repository names!
 
 ---
 
