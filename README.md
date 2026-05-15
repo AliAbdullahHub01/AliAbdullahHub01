@@ -112,8 +112,8 @@ const Ali: Developer = {
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-AliAbdullahHub01-a855f7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AliAbdullahHub01)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ali_Abdullah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Email](https://img.shields.io/badge/Instagram-_kuroi_yoru_-ff4d6d?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Instagram](https://img.shields.io/badge/Instagram-_kuroi_yoru_-ff4d6d?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_kuroi_yoru_)
+[![Gmail](https://img.shields.io/badge/Gmail-mhussnakhan998-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhussnakhan998@gmail.com)
 
 </div>
 
