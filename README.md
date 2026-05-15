@@ -88,12 +88,10 @@ const Ali: Developer = {
 
 <div align="center">
 
-<a href="https://github.com/AliAbdullahHub01/CRMS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AliAbdullahHub01&repo=CRMS&theme=tokyonight&hide_border=true&bg_color=07070f&title_color=a855f7&icon_color=ff4d6d&text_color=e2d9f3&border_radius=10" />
-</a>
-<a href="https://github.com/AliAbdullahHub01/equitask">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AliAbdullahHub01&repo=equitask&theme=tokyonight&hide_border=true&bg_color=07070f&title_color=a855f7&icon_color=ff4d6d&text_color=e2d9f3&border_radius=10" />
-</a>
+| 🏎️ CRMS | ✅ equitask |
+|---|---|
+| Car Racing Management System built in C# with Admin, Manager & Member roles, club/racer CRUD, live leaderboard & file-based storage. | Task management app built with JavaScript. |
+| ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) [![View Repo](https://img.shields.io/badge/View%20Repo-a855f7?style=flat-square&logo=github&logoColor=white)](https://github.com/AliAbdullahHub01/CRMS) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) [![View Repo](https://img.shields.io/badge/View%20Repo-a855f7?style=flat-square&logo=github&logoColor=white)](https://github.com/AliAbdullahHub01/equitask) |
 
 </div>
 
