@@ -88,10 +88,10 @@ const Ali: Developer = {
 
 <div align="center">
 
-| 🏎️ CRMS | ✅ equitask | 🏋️ FitTracker |
-|---|---|---|
-| Car Racing Management System built in C# with Admin, Manager & Member roles, club/racer CRUD, live leaderboard & file-based storage. | Task management app built with JavaScript. | Professional fitness & wellness tracker built in C# with workout logging, nutrition tracking, goals, XP system & analytics. |
-| ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) [![View Repo](https://img.shields.io/badge/View%20Repo-a855f7?style=flat-square&logo=github&logoColor=white)](https://github.com/AliAbdullahHub01/CRMS) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) [![View Repo](https://img.shields.io/badge/View%20Repo-a855f7?style=flat-square&logo=github&logoColor=white)](https://github.com/AliAbdullahHub01/equitask) | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) [![View Repo](https://img.shields.io/badge/View%20Repo-a855f7?style=flat-square&logo=github&logoColor=white)](https://github.com/AliAbdullahHub01/FitTracker) |
+| 🏎️ CRMS | ✅ equitask | 🏋️ FitTracker | 🎮 PacmanGame |
+|---|---|---|---|
+| Car Racing Management System built in C# with Admin, Manager & Member roles, club/racer CRUD, live leaderboard & file-based storage. | Task management app built with JavaScript. | Professional fitness & wellness tracker built in C# with workout logging, nutrition tracking, goals, XP system & analytics. | Classic Pac-Man clone built in C# console with 4 ghost AI modes (Chase, Ambush, Scatter, Random), animated ASCII UI, high score persistence & score history. |
+| ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) [![View Repo](https://img.shields.io/badge/View%20Repo-a855f7?style=flat-square&logo=github&logoColor=white)](https://github.com/AliAbdullahHub01/CRMS) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) [![View Repo](https://img.shields.io/badge/View%20Repo-a855f7?style=flat-square&logo=github&logoColor=white)](https://github.com/AliAbdullahHub01/equitask) | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) [![View Repo](https://img.shields.io/badge/View%20Repo-a855f7?style=flat-square&logo=github&logoColor=white)](https://github.com/AliAbdullahHub01/FitTracker) | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) [![View Repo](https://img.shields.io/badge/View%20Repo-a855f7?style=flat-square&logo=github&logoColor=white)](https://github.com/AliAbdullahHub01/PacmanGame) |
 
 </div>
 
