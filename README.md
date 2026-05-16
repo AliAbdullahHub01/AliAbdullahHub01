@@ -63,11 +63,12 @@ const Ali: Developer = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AliAbdullahHub01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=07070f&title_color=a855f7&icon_color=ff4d6d&text_color=e2d9f3&border_radius=10" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliAbdullahHub01&layout=compact&theme=tokyonight&hide_border=true&bg_color=07070f&title_color=a855f7&text_color=e2d9f3&border_radius=10" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=AliAbdullahHub01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=07070f&title_color=a855f7&icon_color=ff4d6d&text_color=e2d9f3&border_radius=10&cache_seconds=1800" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliAbdullahHub01&layout=compact&theme=tokyonight&hide_border=true&bg_color=07070f&title_color=a855f7&text_color=e2d9f3&border_radius=10&cache_seconds=1800" width="48%" />
 
 <br/><br/>
 
+<!-- Streak Stats — alternative provider -->
 <img src="https://streak-stats.demolab.com?user=AliAbdullahHub01&theme=tokyonight&hide_border=true&background=07070f&stroke=a855f7&ring=ff4d6d&fire=ff4d6d&currStreakLabel=a855f7&sideLabels=a855f7&dates=9d8ec4&border_radius=10" width="60%" />
 
 </div>
