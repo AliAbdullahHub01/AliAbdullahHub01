@@ -28,7 +28,7 @@ const Ali: Developer = {
   name        : "Ali Abdullah",
   location    : "Lahore, Pakistan 🇵🇰",
   role        : ["Frontend Developer", "Backend Developer"],
-  languages   : ["JavaScript", "TypeScript", "SQL"],
+  languages   : ["JavaScript", "TypeScript", "C#", "SQL"],
   database    : ["PostgreSQL"],
   tools       : ["Node.js", "Express", "Git", "VS Code", "Postman"],
   learning    : ["React", "Docker", "GraphQL"],
@@ -44,6 +44,7 @@ const Ali: Developer = {
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -89,10 +90,10 @@ const Ali: Developer = {
 
 <div align="center">
 
-| 🏎️ CRMS | ✅ equitask | 🏋️ FitTracker | 🎮 PacmanGame |
-|---|---|---|---|
-| Car Racing Management System built in C# with Admin, Manager & Member roles, club/racer CRUD, live leaderboard & file-based storage. | Task management app built with JavaScript. | Professional fitness & wellness tracker built in C# with workout logging, nutrition tracking, goals, XP system & analytics. | Classic Pac-Man clone built in C# console with 4 ghost AI modes (Chase, Ambush, Scatter, Random), animated ASCII UI, high score persistence & score history. |
-| ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) [![View Repo](https://img.shields.io/badge/View%20Repo-a855f7?style=flat-square&logo=github&logoColor=white)](https://github.com/AliAbdullahHub01/CRMS) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) [![View Repo](https://img.shields.io/badge/View%20Repo-a855f7?style=flat-square&logo=github&logoColor=white)](https://github.com/AliAbdullahHub01/equitask) | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) [![View Repo](https://img.shields.io/badge/View%20Repo-a855f7?style=flat-square&logo=github&logoColor=white)](https://github.com/AliAbdullahHub01/FitTracker) | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) [![View Repo](https://img.shields.io/badge/View%20Repo-a855f7?style=flat-square&logo=github&logoColor=white)](https://github.com/AliAbdullahHub01/PacmanGame) |
+| 🌱 FAMS | 🏎️ CRMS | ✅ equitask | 🏋️ FitTracker | 🎮 PacmanGame |
+|---|---|---|---|---|
+| Fertilizer Account Management System — a complete C# desktop app for a fertilizer business with layered OOP architecture (BL/DL/UI), covering sales, purchases, payments, production, stock, salaries, audit logs & reporting. | Car Racing Management System built in C# with Admin, Manager & Member roles, club/racer CRUD, live leaderboard & file-based storage. | Task management app built with JavaScript. | Professional fitness & wellness tracker built in C# with workout logging, nutrition tracking, goals, XP system & analytics. | Classic Pac-Man clone built in C# console with 4 ghost AI modes (Chase, Ambush, Scatter, Random), animated ASCII UI, high score persistence & score history. |
+| ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) [![View Repo](https://img.shields.io/badge/View%20Repo-a855f7?style=flat-square&logo=github&logoColor=white)](https://github.com/AliAbdullahHub01/Fertilizer-Account-Management-System) | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) [![View Repo](https://img.shields.io/badge/View%20Repo-a855f7?style=flat-square&logo=github&logoColor=white)](https://github.com/AliAbdullahHub01/CRMS) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) [![View Repo](https://img.shields.io/badge/View%20Repo-a855f7?style=flat-square&logo=github&logoColor=white)](https://github.com/AliAbdullahHub01/equitask) | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) [![View Repo](https://img.shields.io/badge/View%20Repo-a855f7?style=flat-square&logo=github&logoColor=white)](https://github.com/AliAbdullahHub01/FitTracker) | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) [![View Repo](https://img.shields.io/badge/View%20Repo-a855f7?style=flat-square&logo=github&logoColor=white)](https://github.com/AliAbdullahHub01/PacmanGame) |
 
 </div>
 
